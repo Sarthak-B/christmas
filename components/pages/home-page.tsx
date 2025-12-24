@@ -35,7 +35,7 @@ export default function HomePage({ setCurrentPage }: HomePageProps) {
             <div className="flex items-center justify-center gap-4 mb-6 flex-wrap">
               <Sparkles className="text-red-500 animate-spin" size={40} />
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-red-600 via-pink-600 to-red-600">
-                Merry Christmas
+                Merry Christmas Ms. Simran
               </h1>
               <Sparkles className="text-red-500 animate-spin" size={40} />
             </div>

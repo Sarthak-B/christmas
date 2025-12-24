@@ -10,7 +10,7 @@ export default function HeroSection() {
         <div className="mb-6 inline-block animate-pulse">
           <Sparkles className="inline text-red-500 mr-3" size={40} />
           <h1 className="text-6xl md:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-red-600 via-pink-600 to-red-600 inline-block mb-2">
-            Merry Christmas
+            Merry Christmas Ms. Simran
           </h1>
           <Sparkles className="inline text-red-500 ml-3" size={40} />
         </div>
